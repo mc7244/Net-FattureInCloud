@@ -2,5 +2,5 @@
 .vscode
 .DS_Store
 .build
-/Net-MBE*
+/Net-FattureInCloud*
 /mbetest.pl
